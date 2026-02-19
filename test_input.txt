@@ -1,0 +1,9 @@
+This is a test document for the AI Audiobook Generator. 
+It contains some academic markers that should be removed by the text cleaner.
+For instance, citations like [1] or [2, 3, 4] should be ignored.
+Also, parenthetical citations such as (Sonia, 2026) or (Ryan et al., 2025) should not be read.
+The program should handle line-
+broken words gracefully, like "trans-
+formation".
+Finally, it should skip URLs like https://www.google.com and figure references like Figure 1.2.
+I hope the British accent sounds pleasant and professional.

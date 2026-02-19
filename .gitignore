@@ -8,13 +8,6 @@ ENV/
 
 # PyInstaller
 build/
-dist/
-*.spec
-
-# Application specific
-*.mp3
-test_input.*
-md_test/
 
 # IDE
 .vscode/
